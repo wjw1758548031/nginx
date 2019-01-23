@@ -117,3 +117,6 @@
 2019/01/23 10:45:27 [error] 9084#8788: *2 CreateFile() "D:\web\scs_web\build\develop\login/js/login.index.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /js/login.index.js?v=163&t=1.6.30.6569926783183457 HTTP/1.1", host: "localhost:800", referrer: "http://localhost:800/"
 2019/01/23 10:45:27 [error] 9084#8788: *2 CreateFile() "D:\web\scs_web\build\develop\login/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:800", referrer: "http://localhost:800/"
 2019/01/23 10:45:42 [error] 9084#8788: *2 CreateFile() "D:\web\scs_web\build\develop\login/css/base.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /css/base.css?v=163&t=1.6.30.6569926783183457 HTTP/1.1", host: "localhost:800", referrer: "http://localhost:800/"
+2019/01/23 11:09:27 [notice] 9464#6912: signal process started
+2019/01/23 11:10:40 [notice] 10140#8780: signal process started
+2019/01/23 11:10:42 [notice] 6540#9164: signal process started

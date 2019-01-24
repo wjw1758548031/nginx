@@ -120,3 +120,19 @@
 2019/01/23 11:09:27 [notice] 9464#6912: signal process started
 2019/01/23 11:10:40 [notice] 10140#8780: signal process started
 2019/01/23 11:10:42 [notice] 6540#9164: signal process started
+2019/01/23 11:36:59 [notice] 6844#9052: signal process started
+2019/01/23 11:37:00 [notice] 6648#7700: signal process started
+2019/01/23 11:38:01 [notice] 7072#5132: signal process started
+2019/01/24 15:10:12 [notice] 7536#8640: signal process started
+2019/01/24 15:10:50 [emerg] 7412#9904: invalid number of arguments in "root" directive in C:\Users\Administrator\Desktop\nginx-1.15.8/conf/nginx.conf:47
+2019/01/24 15:10:53 [emerg] 9760#10072: invalid number of arguments in "root" directive in C:\Users\Administrator\Desktop\nginx-1.15.8/conf/nginx.conf:47
+2019/01/24 15:11:01 [emerg] 9276#4616: invalid number of arguments in "root" directive in C:\Users\Administrator\Desktop\nginx-1.15.8/conf/nginx.conf:47
+2019/01/24 15:11:08 [emerg] 3512#9292: invalid number of arguments in "root" directive in C:\Users\Administrator\Desktop\nginx-1.15.8/conf/nginx.conf:47
+2019/01/24 15:11:23 [notice] 10116#9916: signal process started
+2019/01/24 15:11:23 [error] 10116#9916: CreateFile() "C:\Users\Administrator\Desktop\nginx-1.15.8/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/01/24 15:11:36 [error] 4840#9588: *1 "C:\Users\Administrator\Desktop\nginx-1.15.8/http://192.168.99.100:10002/parking/haikang/ipr/plate?parkingId=70571cfc48814acfb2df59e207b09f27&channel=1&inOutType=1/index.html" is not found (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:801"
+2019/01/24 15:11:36 [error] 4840#9588: *1 CreateFile() "C:\Users\Administrator\Desktop\nginx-1.15.8/http://192.168.99.100:10002/parking/haikang/ipr/plate?parkingId=70571cfc48814acfb2df59e207b09f27&channel=1&inOutType=1/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:801", referrer: "http://localhost:801/"
+2019/01/24 15:12:30 [notice] 4520#7420: signal process started
+2019/01/24 15:12:38 [error] 8280#9392: *1 "C:\Users\Administrator\Desktop\nginx-1.15.8/http://192.168.99.100:10002/parking/haikang/ipr/plate?parkingId=70571cfc48814acfb2df59e207b09f27&channel=1&inOutType=1index.html" is not found (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:801"
+2019/01/24 15:15:18 [notice] 10204#3356: signal process started
+2019/01/24 15:17:26 [notice] 4956#6352: signal process started
